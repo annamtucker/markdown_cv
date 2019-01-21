@@ -1,10 +1,9 @@
 ---
-output: 
-  pdf_document: 
+output:
+  pdf_document:
     latex_engine: pdflatex
     template: latex-cv.tex
 geometry: margin=1in
-
 title: "CV"
 author: Anna M. Tucker
 #orcid: "orcid.org/0000-0002-9577-6885"
@@ -17,135 +16,115 @@ github: annamtucker
 #twitter: annamtucker_
 #web: 'annamtucker.weebly.com'
 updated: yes
-
 keywords: quantitative ecology, population dynamics, migratory birds
-
-# fontfamily: mathpazo
-# fontfamilyoptions: sc, osf
-# fontsize: 12 pt
-# linkcolor: blue
-# urlcolor: blue
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
 ---
 
-# EDUCATION
 
-*Auburn University*, Ph.D. Wildlife Science \hfill expected May 2019  
- > Stopover ecology and full annual cycle population dynamics of migratory shorebirds     
+# Education
 
-*Virginia Commonwealth University*, M.S. Biology \hfill 2014  
- > Breeding ecology and opportunistic conspecific brood parasitism in prothonotary warblers  
- 
-*Loyola University Maryland*, B.S. Biology \hfill 2010
+Ph.D. Wildlife Sciences - *Auburn University* \hfill expected May 2019  
+
+M.S. Biology - *Virginia Commonwealth University* \hfill 2014  
+  
+B.S. Biology - *Loyola University Maryland* \hfill 2010
    
    
-# PUBLICATIONS
-
-
-*In press or in review*
-
-**Tucker, A.M.**, C.P. McGowan, M. Catalano, A.L. DeRose-Wilson, R.A. Robinson, and J. Zimmerman. Foraging ecology mediates response to ecological mismatch during migratory stopover. *In review - USGS FSP. Target: Journal of Animal Ecology*
-
+# Publications   
+   
+## **In press or in review**   
+  
+**Tucker, A.M.**, C.P. McGowan, M. Catalano, A.L. DeRose-Wilson, R.A. Robinson, and J. Zimmerman. Foraging ecology mediates response to ecological mismatch during migratory stopover. *In review, Journal of Animal Ecology*  
+  
 Robinson, R.A. J.A. Clark, N.A. Clark, A.L. DeRose-Wilson, A. Dey, K. Kalasz, L.J. Niles, H. P. Sitters, **A.M. Tucker**, and C.D.T. Minton. *In review.* Mass gain strategies of a spring-staging long distance migrant shorebird, the Red Knot Calidris canutus. Wader Study Group Bulletin. 
-
+  
 **Tucker, A.M.**, C.P. McGowan, R.A. Robinson, J.A. Clark, J.E. Lyons, A.L. DeRose-Wilson, R. du Feu, G.E. Austin, P.W. Atkinson, and N.A. Clark. *In press*. Effects of individual misidentification on estimates of survival in long-term mark–resight studies. The Condor. *Jan 2019*  
-
-*2018* 
-
+    
+## **2018**   
+  
 Weaver, R.J., E.A. Santos, **A.M. Tucker**, A.E. Wilson, and G.E. Hill. 2018. Carotenoid metabolism strengthens the link between feather coloration and individual quality. Nature Communications: 9.
-
-*2017* 
-
+  
+## **2017**   
+  
 **Tucker, A.M.** and L.P. Bulluck.  2017. No evidence for a negative effect of conspecific brood parasitism on annual survival of female Prothonotary Warblers. Ibis, 160: 447-452.
-
-*2016* 
-
+  
+## **2016**   
+  
 **Tucker, A.M.**, R.J. Dyer, S.K. Huber, and L.P. Bulluck. 2016. Opportunistic conspecific brood parasitism in a box-nesting population of Prothonotary Warblers (Protonotaria citrea). The Auk: 133, 2, 298-307.
     
     
-# RESEARCH GRANTS AND FELLOWSHIPS 
+# Research Grants and Fellowships   
 
-**2017** *Garden Club of America Francis M. Peacock Scholarship for Native Bird Habitat* $4000
-
-**2015** *Graduate Thesis/Dissertation Fellowship, Auburn University Graduate School* $500
-
-**2015** *Eastern Bird Banding Association Memorial Fund Research Grant* $1000
-
-**2013** *VCU Rice Center Student Research Award* $1000
-
-**2013** *Virginia Society of Ornithology J.J. Murray Research Award* $1000
-
-**2008** *Loyola University Hauber Summer Research Fellowship* $3000
-
+**2017** *Garden Club of America Francis M. Peacock Scholarship for Native Bird Habitat* $4000  
+**2015** *Graduate Thesis/Dissertation Fellowship, Auburn University Graduate School* $500  
+**2015** *Eastern Bird Banding Association Memorial Fund Research Grant* $1000  
+**2013** *VCU Rice Center Student Research Award* $1000  
+**2013** *Virginia Society of Ornithology J.J. Murray Research Award* $1000  
+**2008** *Loyola University Hauber Summer Research Fellowship* $3000  
     
-# AWARDS AND HONORS
+# Awards and Honors   
 
-**2018** *The Wildlife Society Biometrics Working Group Travel Award* 
-
-**2018** *AOS Council Student Presentation Award, American Ornithological Society* 
-
-**2017** *Best Student Poster, Euring Analytical Meeting and Workshop*
-
-**2017** *Ducks Unlimited Graduate Student Award, Auburn University*  
-
+**2018** *The Wildlife Society Biometrics Working Group Travel Award*  
+**2018** *AOS Council Student Presentation Award, American Ornithological Society*  
+**2017** *Best Student Poster, Euring Analytical Meeting and Workshop*  
+**2017** *Ducks Unlimited Graduate Student Award*  
 **2014** *Outstanding Graduate Student in Ecology, Virginia Commonwealth University*  
-
 **2010** *Best Presentation, Loyola University Undergraduate Research and Scholarship Colloquium*  
-
-
-# CONTRIBUTED PRESENTATIONS 
-
+  
+# Conference Presentations   
+  
+## **Contributed**  
+  
 **2018** Bias in survival estimates due to individual misidentification in long-term mark-resight studies. *Oral presentation at The Wildlife Society Annual Meeting, Cleveland OH*
-
+  
 **2018** Effects of resource mismatch on stopover mass gain dynamics for two Artic-breeding shorebirds. *Oral presentation at the American Ornithological Society Meeting, Tucson AZ* Winner –Student Presentation Award
-
+  
 **2017** Comparing annual variation in stopover mass gain between two long-distance migrants. *Oral presentation at Western Hemisphere Shorebird Group, Paracas, Peru* (presented by R.A. Robinson)
-
+  
 **2017**. Combining multistate models and network theory to evaluate movement patterns during migratory stopover. *Poster presentation at Euring Analytical Meeting, Barcelona, Spain* Winner – Best Student Poster Award
-
+  
 **2016** Assessing the influence of migratory connectivity and spring stopover site disturbance on population dynamics using a full annual cycle simulation model. *Oral presentation at the North American Ornithological Conference VI, Washington DC*
-
+  
 **2014** Conspecific brood parasitism as an alternative breeding strategy in box-nesting Prothonotary Warblers. *Oral presentation at the American Ornithologists’ Union Annual Meeting, Estes Park CO*
+  
+**2014** The occurrence and consequences of conspecific brood parasitism in the Prothonotary Warbler (*Protonotaria citrea*).  *Oral presentation at the Virginia Society of Ornithology Annual Meeting, Norfolk VA*  
+  
+  
+# Professional Development   
 
-**2014** The occurrence and consequences of conspecific brood parasitism in the Prothonotary Warbler (*Protonotaria citrea*).  *Oral presentation at the Virginia Society of Ornithology Annual Meeting, Norfolk VA*
-
-
-# PROFESSIONAL DEVELOPMENT
-
-Apprentice, National Conservation Training Center Structured Decision Making Workshop (lead coaches: Sarah Converse and Justin Gude) *July 2018* 
-
-Integrated Population Modeling Workshop, Patuxent Wildlife Research Center *October 2017*
-
-Data Integration Workshop, Euring Analytical Meeting, Barcelona *July 2017*  
-
-Conservation Leaders for Tomorrow, Mansfield GA *January 2017*
-
-
-# TEACHING
-
-**Lesson Development**
-Strategic Use of Data: Describing population trends for Species Status Assessments, USFWS Training Course (2017-2018)  
-Wildlife Population Science Lab, Auburn University (Spring 2018)  
+Apprentice, National Conservation Training Center Structured Decision Making Workshop *July 2018*  
+Integrated Population Modeling Workshop, Patuxent Wildlife Research Center *October 2017*  
+Data Integration Workshop, Euring Analytical Meeting, Barcelona *July 2017*    
+Conservation Leaders for Tomorrow, Mansfield GA *January 2017*  
+  
+  
+# Teaching  
+  
+## **Lesson Development**  
+Quantitative Techniques for Species Status Assessments, USFWS Training Course (2017-2018) Wildlife Population Science Lab, Auburn University (Spring 2018)  
 Ornithology Program, National Audubon Society Hog Island Family Camp (2017 & 2018)  
 Ornithology Lab, Virginia Commonwealth University (Summer 2013)  
   
-**Guest Lectures**
+## **Guest Lectures**  
 Avian Conservation in North America, Ornithology, Auburn University (Apr 2018)  
 Migratory Shorebirds in Delaware Bay, Osher Lifelong Learning Institute, Auburn AL (Apr 2017)  
 Avian Life History, Ornithology, Virginia Commonwealth University (Mar 2014)  
   
-**Teaching Assistantships**
+## **Teaching Assistantships**  
 Ornithology Lab, Auburn University (Spring 2016)  
 Anatomy and Physiology II Lab, Auburn University (Spring 2015 – Fall 2016)  
 Ornithology Lab, Virginia Commonwealth University (Spring 2014)  
-Tropical Avian Ecology in Panama, Virginia Commonwealth University (Spring 2014)  
-Intro Biological Sciences Lab, Virginia Commonwealth University (Fall 2012 – Fall 2013)  
+Tropical Avian Ecology in Panama, Virginia Commonwealth University (Spring 2014)  Intro. to Biological Sciences Lab, Virginia Commonwealth University (Fall 2012 – Fall 2013)   
   
   
-# SERVICE AND OUTREACH 
-  
+# Service and Outreach  
 Coordinator, Wildlife Graduate Student & Postdoc Quant Club (2017-2018)  
 Graduate Student Representative, IT Specialist Hiring Committee (Jan 2018)  
-Ornithology Instructor, National Audubon Society, Hog Island Family Camp (Aug 2017 & 2018)  
+Ornithology Instructor, National Audubon Society, Hog Island Family Camp (Aug 2017 & 2018)
 Instructor, Graduate Women in Science and Girl Scout Pi Day (Mar 2017)  
 Ornithology Instructor, Alabama Extension Master Naturalist Program (Dec 2016)  
 Bird Survey Leader, Alabama Extension Program BioBlitz (Apr 2016 & 2017)  
