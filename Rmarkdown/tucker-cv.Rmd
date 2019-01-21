@@ -14,48 +14,50 @@ fontawesome: yes
 email: annamtucker@gmail.com
 github: annamtucker
 #phone: "+1 555 5555"
-web: 'annamtucker.weebly.com'
+#twitter: annamtucker_
+#web: 'annamtucker.weebly.com'
 updated: yes
 
 keywords: quantitative ecology, population dynamics, migratory birds
 
-fontfamily: mathpazo
-fontfamilyoptions: sc, osf
-fontsize: 10pt
-linkcolor: blue
-urlcolor: blue
+# fontfamily: mathpazo
+# fontfamilyoptions: sc, osf
+# fontsize: 12 pt
+# linkcolor: blue
+# urlcolor: blue
 ---
 
 # EDUCATION
 
-*Auburn University*, Ph.D. Wildlife Sciences \hfill expected May 2019
+*Auburn University*, Ph.D. Wildlife Science \hfill expected May 2019  
+ > Stopover ecology and full annual cycle population dynamics of migratory shorebirds     
 
-*Virginia Commonwealth University*, M.S. Biology \hfill 2014
-
+*Virginia Commonwealth University*, M.S. Biology \hfill 2014  
+ > Breeding ecology and opportunistic conspecific brood parasitism in prothonotary warblers  
+ 
 *Loyola University Maryland*, B.S. Biology \hfill 2010
    
    
 # PUBLICATIONS
 
-## **Journal Articles**
 
-**In press or in review** 
+*In press or in review*
 
-**Tucker, A.M.**, C.P. McGowan, M. Catalano, A.L. DeRose-Wilson, R.A. Robinson, and J. Zimmerman. Foraging ecology mediates response to ecological mismatch during migratory stopover. *In review USGS FSP. Target: Journal of Animal Ecology*
+**Tucker, A.M.**, C.P. McGowan, M. Catalano, A.L. DeRose-Wilson, R.A. Robinson, and J. Zimmerman. Foraging ecology mediates response to ecological mismatch during migratory stopover. *In review - USGS FSP. Target: Journal of Animal Ecology*
 
 Robinson, R.A. J.A. Clark, N.A. Clark, A.L. DeRose-Wilson, A. Dey, K. Kalasz, L.J. Niles, H. P. Sitters, **A.M. Tucker**, and C.D.T. Minton. *In review.* Mass gain strategies of a spring-staging long distance migrant shorebird, the Red Knot Calidris canutus. Wader Study Group Bulletin. 
 
-**Tucker, A.M.**, C.P. McGowan, R.A. Robinson, J.A. Clark, J.E. Lyons, A.L. DeRose-Wilson, R. du Feu, G.E. Austin, P.W. Atkinson, and N.A. Clark. *In press*. Effects of individual misidentification on estimates of survival in long-term mark–resight studies. The Condor. 
+**Tucker, A.M.**, C.P. McGowan, R.A. Robinson, J.A. Clark, J.E. Lyons, A.L. DeRose-Wilson, R. du Feu, G.E. Austin, P.W. Atkinson, and N.A. Clark. *In press*. Effects of individual misidentification on estimates of survival in long-term mark–resight studies. The Condor. *Jan 2019*  
 
-**2018** 
+*2018* 
 
 Weaver, R.J., E.A. Santos, **A.M. Tucker**, A.E. Wilson, and G.E. Hill. 2018. Carotenoid metabolism strengthens the link between feather coloration and individual quality. Nature Communications: 9.
 
-**2017** 
+*2017* 
 
 **Tucker, A.M.** and L.P. Bulluck.  2017. No evidence for a negative effect of conspecific brood parasitism on annual survival of female Prothonotary Warblers. Ibis, 160: 447-452.
 
-**2016** 
+*2016* 
 
 **Tucker, A.M.**, R.J. Dyer, S.K. Huber, and L.P. Bulluck. 2016. Opportunistic conspecific brood parasitism in a box-nesting population of Prothonotary Warblers (Protonotaria citrea). The Auk: 133, 2, 298-307.
     
@@ -83,9 +85,9 @@ Weaver, R.J., E.A. Santos, **A.M. Tucker**, A.E. Wilson, and G.E. Hill. 2018. Ca
 
 **2017** *Best Student Poster, Euring Analytical Meeting and Workshop*
 
-**2017** *Ducks Unlimited Graduate Student Award*
+**2017** *Ducks Unlimited Graduate Student Award, Auburn University*  
 
-**2014** *Outstanding Graduate Student in Ecology, Virginia Commonwealth University*
+**2014** *Outstanding Graduate Student in Ecology, Virginia Commonwealth University*  
 
 **2010** *Best Presentation, Loyola University Undergraduate Research and Scholarship Colloquium*  
 
@@ -109,7 +111,7 @@ Weaver, R.J., E.A. Santos, **A.M. Tucker**, A.E. Wilson, and G.E. Hill. 2018. Ca
 
 # PROFESSIONAL DEVELOPMENT
 
-Apprentice, National Conservation Training Center Structured Decision Making Workshop *July 2018*
+Apprentice, National Conservation Training Center Structured Decision Making Workshop (lead coaches: Sarah Converse and Justin Gude) *July 2018* 
 
 Integrated Population Modeling Workshop, Patuxent Wildlife Research Center *October 2017*
 
@@ -121,33 +123,34 @@ Conservation Leaders for Tomorrow, Mansfield GA *January 2017*
 # TEACHING
 
 **Lesson Development**
-Quantitative Techniques for Species Status Assessments, USFWS Training Course (2017-2018)
-Wildlife Population Science Lab, Auburn University (Spring 2018)
-Ornithology Program, National Audubon Society Hog Island Family Camp (2017 & 2018)
-Ornithology Lab, Virginia Commonwealth University (Summer 2013)
-
+Strategic Use of Data: Describing population trends for Species Status Assessments, USFWS Training Course (2017-2018)  
+Wildlife Population Science Lab, Auburn University (Spring 2018)  
+Ornithology Program, National Audubon Society Hog Island Family Camp (2017 & 2018)  
+Ornithology Lab, Virginia Commonwealth University (Summer 2013)  
+  
 **Guest Lectures**
-Avian Conservation in North America, Ornithology, Auburn University (Apr 2018)
-Migratory Shorebirds in Delaware Bay, Osher Lifelong Learning Institute, Auburn AL (Apr 2017)
-Avian Life History, Ornithology, Virginia Commonwealth University (Mar 2014)
-
+Avian Conservation in North America, Ornithology, Auburn University (Apr 2018)  
+Migratory Shorebirds in Delaware Bay, Osher Lifelong Learning Institute, Auburn AL (Apr 2017)  
+Avian Life History, Ornithology, Virginia Commonwealth University (Mar 2014)  
+  
 **Teaching Assistantships**
-Ornithology Lab, Auburn University (Spring 2016)
-Anatomy and Physiology II Lab, Auburn University (Spring 2015 – Fall 2016)
-Ornithology Lab, Virginia Commonwealth University (Spring 2014)
-Tropical Avian Ecology in Panama, Virginia Commonwealth University (Spring 2014) rginia Commonwealth University (Fall 2012 – Fall 2013)
-
-
+Ornithology Lab, Auburn University (Spring 2016)  
+Anatomy and Physiology II Lab, Auburn University (Spring 2015 – Fall 2016)  
+Ornithology Lab, Virginia Commonwealth University (Spring 2014)  
+Tropical Avian Ecology in Panama, Virginia Commonwealth University (Spring 2014)  
+Intro Biological Sciences Lab, Virginia Commonwealth University (Fall 2012 – Fall 2013)  
+  
+  
 # SERVICE AND OUTREACH 
-
-Coordinator, Wildlife Graduate Student & Postdoc Quant Club (2017-2018)
-Graduate Student Representative, IT Specialist Hiring Committee (Jan 2018)
-Ornithology Instructor, National Audubon Society, Hog Island Family Camp (Aug 2017 & 2018)
-Instructor, Graduate Women in Science and Girl Scout Pi Day (Mar 2017)
-Ornithology Instructor, Alabama Extension Master Naturalist Program (Dec 2016)
-Bird Survey Leader, Alabama Extension Program BioBlitz (Apr 2016 & 2017)
-Poster Session Judge, Auburn University This is Research Symposium (Mar 2016)
-Shorebird Monitoring Volunteer, Delaware Shorebird Project (2015 – present)
-Vice President, VCU Graduate Organization of Biology Students (2013 – 2014)
-Interpretive Aide, National Aquarium in Baltimore (2010 – 2011)
-Environmental Education Volunteer, Patterson Park Audubon Society (2009 – 2010)z
+  
+Coordinator, Wildlife Graduate Student & Postdoc Quant Club (2017-2018)  
+Graduate Student Representative, IT Specialist Hiring Committee (Jan 2018)  
+Ornithology Instructor, National Audubon Society, Hog Island Family Camp (Aug 2017 & 2018)  
+Instructor, Graduate Women in Science and Girl Scout Pi Day (Mar 2017)  
+Ornithology Instructor, Alabama Extension Master Naturalist Program (Dec 2016)  
+Bird Survey Leader, Alabama Extension Program BioBlitz (Apr 2016 & 2017)  
+Poster Session Judge, Auburn University This is Research Symposium (Mar 2016)  
+Shorebird Monitoring Volunteer, Delaware Shorebird Project (2015 – present)  
+Vice President, VCU Graduate Organization of Biology Students (2013 – 2014)  
+Interpretive Aide, National Aquarium in Baltimore (2010 – 2011)  
+Environmental Education Volunteer, Patterson Park Audubon Society (2009 – 2010)  
